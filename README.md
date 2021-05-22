@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -  **Languages:**  JavaScript
 -  **Organizations:** Front-end Developer at Agência Guia-se <br/>
 
-[![Mail Badge](https://img.shields.io/badge/-thiago.sullivan.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.sullivan.dev@gmail.com)](mailto:thiagosantos) [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosullivan/)](https://www.linkedin.com/in/thiagosullivan/)
+[![Mail Badge](https://img.shields.io/badge/-thiago.sullivan.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.sullivan.dev@gmail.com)](mailto:thiago.sullivan.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosullivan/)](https://www.linkedin.com/in/thiagosullivan/)

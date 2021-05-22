@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### About me
+-  **Development:** FrontEnd | ReactJS
+-  **Languages:**  JavaScript
+-  **Organizations:** Front-end Developer at Agência Guia-se <br/>
+
+[![Mail Badge](https://img.shields.io/badge/-thiago.sullivan.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.sullivan.dev@gmail.com)](mailto:thiagosullivan) [![Linkedin Badge](https://img.shields.io/badge/-Manoela_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-santos-19ab4519b/)](https://www.linkedin.com/in/thiago-santos-19ab4519b/)

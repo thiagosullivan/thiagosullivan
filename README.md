@@ -22,9 +22,15 @@ Here are some ideas to get you started:
 
 ### About me
 -  **Development:** FrontEnd | ReactJS
--  **Languages:**  JavaScript
 -  **Organizations:** Front-end Developer at Agência Guia-se <br/>
 -  **Status:** Open to offers <br/>
+-  **Languages and tools:**
+
+<!-- <img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png"> -->
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
 
 [![Mail Badge](https://img.shields.io/badge/-thiago.sullivan.dev@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.sullivan.dev@gmail.com)](mailto:thiago.sullivan.dev@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Thiago_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosullivan/)](https://www.linkedin.com/in/thiagosullivan/)
 

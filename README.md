@@ -66,16 +66,21 @@
 </a>
 </p>
 
-<h3 align="center">Trabalhando em:</h3>
+<h3 align="center">More about me:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
-    <img
-      align="center"
-      height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=thiagosullivan&repo=thiagosullivan&theme=tokyonight">
-    </img>
-  </a>
+  <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+  ```kotlin
+  object **SEU NOME** {
+   val name = "SEU NOME COMPLETO"
+   val acknowledgements = "ÁREA DE CONHECIMENTO"
+
+   val primarySkillset = "ALGUMAS HABILIDADES"
+   val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
+
+  }
+  ```
 </p>
 
 <h3 align="center">Sobre mim:</h3>

@@ -103,12 +103,12 @@
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
+<!--   <a href="https://www.youtube.com/channel/link-do-canal">
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
     />
-  </a>
+  </a> -->
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">@thiagosullivan</h5>
 </details>

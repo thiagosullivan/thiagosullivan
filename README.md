@@ -1,7 +1,7 @@
 
 
 
-[![banner](./banner.png)](https://github.com/seu-usuario)
+[![banner](https://i.ibb.co/RynQfgz/ts-logo.jpg)](https://github.com/thiagosullivan)
 
   <p align="center">
    <a href="https://code.visualstudio.com/">

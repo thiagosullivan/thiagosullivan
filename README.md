@@ -16,28 +16,40 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
+   <a href="https://reactjs.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="git" width="40" height="40"/>
+   </a>
    <a href="https://nextjs.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
    </a>
    <a href="https://nodejs.org">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+   </a>   
+   <a href="https://git-scm.com/">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
-   <a href="https://www.electronjs.org/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="html5" width="40" height="40"/>
+   <a href="https://www.atlassian.com/br/software/jira">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jira/jira-original.svg" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://bitbucket.org/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bitbucket-blue-logomark-only.svg/1200px-Bitbucket-blue-logomark-only.svg.png" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://getbootstrap.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-plain.svg" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://www.oracle.com/br/cx/ecommerce/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/oracle/oracle-original.svg" alt="git" width="40" height="40"/>
    </a>
    <a href="https://www.slack.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </a>
 </p>
 
 <h4 align="center">
 <details>
-<summary>Mais...</summary>
+<summary>More...</summary>
   <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi there, I'm Thiago</h1></img>
-
+<br>
 <p align="center">
   <a href="https://github.com/thiagosullivan">
     <img
@@ -54,7 +66,7 @@
     />
   </a>
 </p>
-
+<br>
 
 <p align="center">
   <a href="https://github.com/thiagosullivan">
@@ -65,28 +77,23 @@
   </a>
 </a>
 </p>
+<br>
 
-<h3 align="center">More about me:</h3>
+<h3 align="center">About me:</h3>
 
 <p align="center">
   <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-  ```kotlin
-  object **SEU NOME** {
-   val name = "SEU NOME COMPLETO"
-   val acknowledgements = "ÁREA DE CONHECIMENTO"
-
-   val primarySkillset = "ALGUMAS HABILIDADES"
-   val languages = listOf("Java", "Python", "JavaScript", "Kotlin", "React") 
-
-  }
-  ```
+  <p align="justify">Today my focus is develop my skills with ReactJS and NextJS. ⚛️<br/>
+  Here in my repository you can find some of my first and last projects (some bad and some good like everybody😂).<br/>
+  Enjoy and let's share some experiences! 🚀</p>
 </p>
+<br>
 
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+  <a href="https://instagram.com/thiagosullivan/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
@@ -98,7 +105,7 @@
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
   </a>
-  <a href="https://discord.gg/seu-server">
+  <a href="https://discordapp.com/users/Sully#6674/">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">

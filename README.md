@@ -90,7 +90,7 @@
 </p>
 <br>
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">Social:</h3>
 
 <p align="center">
   <a href="https://instagram.com/thiagosullivan/">

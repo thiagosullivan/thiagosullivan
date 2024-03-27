@@ -16,8 +16,14 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
+   <a href="https://www.typescriptlang.org/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="javascript" width="40" height="40"/>
+   </a>
    <a href="https://reactjs.org/">
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" alt="git" width="40" height="40"/>
+   </a>
+   <a href="https://reactnative.dev/">
+      <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="git" width="40" height="40"/>
    </a>
    <a href="https://nextjs.org/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
@@ -42,6 +48,24 @@
    </a>
    <a href="https://www.slack.com">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/>
+   </a>
+    <a href="https://styled-components.com">
+      <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="slack" width="40" height="40"/>
+   </a>
+    <a href="https://tailwindcss.com/">
+      <img src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,w_500,h_500,g_center/c_fill,dpr_2.0,f_auto,g_center,q_auto:good/v1/gcs/platform-data-dsc/events/Tailwind_CSS_Logo.svg_GkNDLAs.png" alt="slack" width="40" height="40"/>
+   </a>
+    <a href="https://www.mongodb.com/">
+      <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="slack" width="40" height="40"/>
+   </a>
+    <a href="https://firebase.google.com">
+      <img src="https://www.gstatic.com/devrel-devsite/prod/vdd667e8703bf3eb3250e728f4f199ed0baf72dd7a2c58290f8fa685e2652be47/firebase/images/touchicon-180.png" alt="slack" width="40" height="40"/>
+   </a>
+    <a href="https://www.postgresql.org/">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" alt="slack" width="40" height="40"/>
+   </a>
+    <a href="https://www.prisma.io/">
+      <img src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="slack" width="40" height="40"/>
    </a>
 </p>
 

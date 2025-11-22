@@ -4,16 +4,17 @@
 </div> -->
 
 
-# 🚀 Hi, I'm Thiago - Full Stack Developer 
+# 🚀 Thiago Santos - Full Stack Developer 
 
 <br>
 <h3 align="center">About me:</h3>
 <p align="center">
   <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-  <p align="left">I'm currently focusing on backend studies with NodeJS and NestJS.
-Here you can find all my projects (even the ones from when I was learning 😂).
-Enjoy and let's share some experiences!</p>
+  <p align="left">Hi, you can call me Sully. 😊 I'm a Full Stack Developer.</br>
+    I'm currently focusing on backend studies with Nest.js and Python.</br>
+    Here you can find all my projects.
+    Enjoy and let's share some experiences and drink a coffee!</p>
 </br>
 <p>Checkout my portfolio:</p>
 <a href="https://thiagosullivanportfolio.vercel.app/">https://thiagosullivanportfolio.vercel.app/</a> 🚀
